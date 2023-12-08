@@ -1,5 +1,5 @@
 # Food_ordering
-A web application developed using Java Springboot
+A web application developed using Java-Springboot 
 Fun Food
 Features:
 * Browse Menu
